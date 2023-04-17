@@ -1,0 +1,6 @@
+projectKey=com.checkAndUpdateFile:checkAndUpdateFile
+serverUrl=http://localhost:9000
+serverVersion=9.9.0.65466
+dashboardUrl=http://localhost:9000/dashboard?id=com.checkAndUpdateFile%3AcheckAndUpdateFile
+ceTaskId=AYd1kqx0Lwwvvcnx_xoa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYd1kqx0Lwwvvcnx_xoa

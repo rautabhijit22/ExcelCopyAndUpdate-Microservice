@@ -1,0 +1,5 @@
+What is APACHE POI -->
+
+POI stands For “Poor Obfuscation Implementation”. Apache POI is an API provided by Apache foundation which is a collection
+of different java libraries. These libraries gives the facility to read, write and manipulate different Microsoft
+files such as excel sheet, power-point, and word files.
